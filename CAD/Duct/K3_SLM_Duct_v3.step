@@ -12,7 +12,7 @@ cturing Information (PMI)---4.0---2014-10-13'),
 
 FILE_NAME(
 /* name */ 'K3_SLM_Duct_v3.step',
-/* time_stamp */ '2025-01-07T19:35:55-07:00',
+/* time_stamp */ '2025-01-08T16:39:51-07:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
@@ -62497,14 +62497,14 @@ SOLID_ANGLE_UNIT()
 #49456=PRODUCT_DEFINITION_SHAPE('',$,#49459);
 #49457=SHAPE_REPRESENTATION('',(#14455),#49449);
 #49458=PRODUCT_DEFINITION_CONTEXT('part definition',#49463,'design');
-#49459=PRODUCT_DEFINITION('(Unsaved)','(Unsaved)',#49460,#49458);
+#49459=PRODUCT_DEFINITION('K3 SLM Duct','K3 SLM Duct',#49460,#49458);
 #49460=PRODUCT_DEFINITION_FORMATION('',$,#49465);
-#49461=PRODUCT_RELATED_PRODUCT_CATEGORY('(Unsaved)','(Unsaved)',(#49465));
+#49461=PRODUCT_RELATED_PRODUCT_CATEGORY('K3 SLM Duct','K3 SLM Duct',(#49465));
 #49462=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'ap242_managed_model_based_3d_engineering',2011,#49463);
 #49463=APPLICATION_CONTEXT('Managed model based 3d engineering');
 #49464=PRODUCT_CONTEXT('part definition',#49463,'mechanical');
-#49465=PRODUCT('(Unsaved)','(Unsaved)',$,(#49464));
+#49465=PRODUCT('K3 SLM Duct','K3 SLM Duct',$,(#49464));
 #49466=PRESENTATION_STYLE_ASSIGNMENT((#49468));
 #49467=PRESENTATION_STYLE_ASSIGNMENT((#49469));
 #49468=SURFACE_STYLE_USAGE(.BOTH.,#49470);
