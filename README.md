@@ -10,3 +10,12 @@ Metal version of the duct. Heavily inspired by the [Takeoff V2](https://github.c
 ![albinodeerv2duct](/Images/albinodeerduct.png)
 
 *thank you albino deer for the photo!*
+
+
+
+
+
+
+
+
+(NOTE: This repo is licensed under CC BY-NC-SA 4.0, and **not** the annex license as there is no cad here based on annex cad)
