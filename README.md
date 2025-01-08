@@ -11,6 +11,11 @@ Metal version of the duct. Heavily inspired by the [Takeoff V2](https://github.c
 
 *thank you albino deer for the photo!*
 
+## SLM Fan Brackets
+Metal version of the fan brackets. 8g each
+
+![overviewofbrackets](/Images/fanbrackets.png)
+![toolheadwithbrackets](/Images/toolheadwithbrackets.png)
 
 
 
