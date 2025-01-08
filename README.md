@@ -7,5 +7,5 @@ Metal version of the duct. Heavily inspired by the [Takeoff V2](https://github.c
 
 ![overview](/Images/ductoverview.png)
 ![ontoolheadduct](/Images/toolheadwithduct.png)
-![albinodeerv2duct(/Images/albinodeerduct.png)
+![albinodeerv2duct](/Images/albinodeerduct.png)
 *thank you albino deer for the photo!*
