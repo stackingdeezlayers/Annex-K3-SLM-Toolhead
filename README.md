@@ -5,7 +5,7 @@ SLM things for the cbon chube 3628 toolhead.
 ![fulloverview](/Images/fulltoolhead.png)
 
 ## SLM Duct
-Metal version of the duct. Heavily inspired by the [Takeoff V2](https://github.com/Kizime123/Takeoff-Toolhead) duct, with some geometry being a direct copy.
+Metal version of the duct. Heavily inspired by the [Takeoff V2](https://github.com/Kizime123/Takeoff-Toolhead) duct, with some geometry being a direct copy. The beacon `x_offset` is -25.5 (whereas the printed duct's offset is -26.5).
 
 ![overview](/Images/ductoverview.png)
 ![ontoolheadduct](/Images/toolheadwithduct.png)
@@ -25,4 +25,4 @@ Metal version of the fan brackets. 8g each
 
 
 
-(NOTE: This repo is licensed under CC BY-NC-SA 4.0, and **not** the annex license as there is no cad here based on annex cad)
+(NOTE: This repo is licensed under CC BY-NC-SA 4.0, and **not** the annex license as there is no CAD here based on Annex CAD)
