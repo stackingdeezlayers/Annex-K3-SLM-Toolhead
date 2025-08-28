@@ -1,6 +1,6 @@
 # Annex-K3-SLM-Toolhead
 
-SLM things for the cbon chube 3628 toolhead.
+SLM things for the [lasercut K3 toolhead](https://github.com/MathematicalPotato/DooKi3-Toolhead).
 
 ![fulloverview](/Images/fulltoolhead.png)
 
@@ -18,7 +18,6 @@ Metal version of the fan brackets. 8g each
 
 ![overviewofbrackets](/Images/fanbrackets.png)
 ![toolheadwithbrackets](/Images/toolheadwithbrackets.png)
-
 
 
 
